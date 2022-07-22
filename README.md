@@ -44,8 +44,7 @@
 
    
 
-
-# 🙏Follow my Social Media & Subscribe Our Youtube Channel 🙏
+Follow my Social Media & Subscribe Our Youtube Channel 🙏
 
 
         Social Media :
