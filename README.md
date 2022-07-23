@@ -1,4 +1,4 @@
-# Developed Application React Life-Cycle
+# Timer With React-Life-Cycle
         
        Based on React Life-Cycle
        
@@ -28,7 +28,7 @@
       - React Bootstrap
       - React Router
       - Class Component
-      - 
+
       
       
 
